@@ -53,3 +53,7 @@ small {
   position: relative;
   left: 30px;
 }
+
+.github-link {
+  text-align: center;
+}
